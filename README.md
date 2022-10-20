@@ -5,7 +5,7 @@ This is a team project for `BA775 Business Analytics Toolbox`
 Team Members:
 * Hejiang Wu
 * Sarmad Kahut
-* Sifan Zhu (sifan.zhu.99@gmail.com)
+* Sifan Zhu
 * Syed Ghalib Qadri
 * Yu Ting Hung
 
